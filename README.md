@@ -14,4 +14,4 @@ The list of Experiments for this course is as follows:
 5. BCD To Binary Convertor
 6. Register File with ALU
 7. Control by program stored in EPROM
-8. Desing Gnome Sort (Optimal Experiment)
+8. Gnome Sort Design (Optimal Experiment)
