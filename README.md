@@ -13,3 +13,5 @@ The list of Experiments for this course is as follows:
 4. Floating Point Adder/Subtractor
 5. BCD To Binary Convertor
 6. Register File with ALU
+7. Control by program stored in EPROM
+8. Desing Gnome Sort (Optimal Experiment)
